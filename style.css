@@ -1,0 +1,41 @@
+
+.header{
+    width:100%;
+    text-align:left;
+}
+.header h3{
+    display:inline;
+}
+.header button{
+    float:right;
+    border:1px solid white;
+}
+#start,#status{
+    font-size: 22px;
+}
+
+
+.header button{
+    float:right;
+    border:1px solid white;
+}
+.mario_image{
+    width:100%;
+}
+#start,#status{
+    font-size: 22px;
+  
+}
+h4{
+    background:#f5f5f5;
+    margin:0px;
+    line-height: 2;
+
+}
+.modal-dialog{
+    width:90%;
+}
+.instructions_image{
+    display:inline-block;
+    width:45%;
+}
